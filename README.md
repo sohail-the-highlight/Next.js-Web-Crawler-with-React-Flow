@@ -5,8 +5,6 @@
 
 An intelligent frontend application that crawls websites and automatically generates visual user flow diagrams. It detects meaningful navigation paths while actively filtering out "noise" (like global navigation bars) to produce clean, readable maps.
 
-![Project Screenshot](https://via.placeholder.com/800x400?text=User+Flow+Mapper+Screenshot)
-*(Replace this link with an actual screenshot link after you upload one to the repo)*
 
 ## 🚀 Features
 
